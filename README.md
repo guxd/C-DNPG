@@ -1,5 +1,5 @@
 # C-DNPG
-Data and code for the paper "Continuous Decomposition of Granularity for Neural Paraphrase Generation" at COLING 2022.
+Data and code for the paper "[Continuous Decomposition of Granularity for Neural Paraphrase Generation](https://guxd.github.io/papers/C-DNPG.pdf)" at COLING 2022.
 
 
 # License

@@ -1,3 +1,7 @@
+# C-DNPG
+# Copyright 2022-present NAVER Corp.
+# BSD 3-clause
+
 import os
 import logging
 import torch

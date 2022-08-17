@@ -1,4 +1,4 @@
-# CDNPG
+# C-DNPG
 # Copyright 2022-present NAVER Corp.
 # BSD 3-clause
 

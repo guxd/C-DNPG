@@ -2,6 +2,13 @@
 Data and code for the paper "[Continuous Decomposition of Granularity for Neural Paraphrase Generation](https://guxd.github.io/papers/C-DNPG.pdf)" at COLING 2022.
 
 
+## Usage
+
+
+```python
+python main.py --dataset quora --model GATransformer --model_size dnpg-default --per_gpu_train_batch_size 32 --learning_rate 5e-5 --src_maxlen 20 --tar_maxlen 20 --beam_size 8 --max_steps 400000 --validating_steps 5000 --start_eval 20000
+```
+
 # License
 
 ```
